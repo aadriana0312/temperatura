@@ -1,6 +1,4 @@
-# temperatura
-
-## – DHT11 + LEDs
+# temperatura DHT11 + LEDs
 ![20250827_130453](https://github.com/user-attachments/assets/b5df8b60-117f-4e76-9632-648398c69924)
 
 
