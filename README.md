@@ -22,7 +22,7 @@
 - LED vermelho → Pino 18  
   (cada LED com resistor em série)
 
-  ## Explicação do funcionamento
+## Explicação do funcionamento
 O ESP32 lê os dados de temperatura (°C e °F) e umidade (%) pelo DHT11.
 
 Os valores são exibidos no Serial Monitor a cada 2 segundos.
