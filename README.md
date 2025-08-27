@@ -17,7 +17,7 @@
 - Pino VCC → 3.3V
 - Pino GND → GND
 
-### LEDs
+## LEDs
 - LED azul → Pino 4
 - LED vermelho → Pino 18  
   (cada LED com resistor em série)
