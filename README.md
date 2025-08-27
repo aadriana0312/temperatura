@@ -22,6 +22,15 @@
 - LED vermelho → Pino 18  
   (cada LED com resistor em série)
 
+  ## Explicação do funcionamento
+O ESP32 lê os dados de temperatura (°C e °F) e umidade (%) pelo DHT11.
+
+Os valores são exibidos no Serial Monitor a cada 2 segundos.
+
+Se a temperatura estiver abaixo de 25 °C, o LED azul acende.
+
+Se a temperatura for igual ou superior a 25 °C, o LED vermelho acende.
+
 
 
 ## 📜 Código
@@ -87,11 +96,4 @@ void loop() {
 }
 
 
-## Explicação do funcionamento
-O ESP32 lê os dados de temperatura (°C e °F) e umidade (%) pelo DHT11.
 
-Os valores são exibidos no Serial Monitor a cada 2 segundos.
-
-Se a temperatura estiver abaixo de 25 °C, o LED azul acende.
-
-Se a temperatura for igual ou superior a 25 °C, o LED vermelho acende.
