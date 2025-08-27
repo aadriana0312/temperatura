@@ -1,7 +1,8 @@
 # temperatura
 
 ## – DHT11 + LEDs
-![Uploading 20250827_130453.jpg…]()
+!(Media)[20250827_130453](https://github.com/user-attachments/assets/b5df8b60-117f-4e76-9632-648398c69924)
+
 
 ## 📦 Materiais necessários
 - 1x ESP32
